@@ -71,5 +71,3 @@ The solution code uses the basic composables covered in Unit 1, Pathway 3 for An
 
 - Build a simple app with text composables.
 - Add images to your Android app.
-
-There's a lot of room for improvement, so feel free to experiment and try different things.
